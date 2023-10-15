@@ -1,0 +1,14 @@
+C:\Users\batyr\source\repos\музон\музон\bin\Debug\net7.0\музон.exe
+C:\Users\batyr\source\repos\музон\музон\bin\Debug\net7.0\музон.deps.json
+C:\Users\batyr\source\repos\музон\музон\bin\Debug\net7.0\музон.runtimeconfig.json
+C:\Users\batyr\source\repos\музон\музон\bin\Debug\net7.0\музон.dll
+C:\Users\batyr\source\repos\музон\музон\bin\Debug\net7.0\музон.pdb
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\музон.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\музон.AssemblyInfoInputs.cache
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\музон.AssemblyInfo.cs
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\музон.csproj.CoreCompileInputs.cache
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\музон.dll
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\refint\музон.dll
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\музон.pdb
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\музон.genruntimeconfig.cache
+C:\Users\batyr\source\repos\музон\музон\obj\Debug\net7.0\ref\музон.dll
